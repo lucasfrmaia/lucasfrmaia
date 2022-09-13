@@ -1,5 +1,5 @@
 
-- Olá sou Lucas Ferreira Maia, estou cursando ciencias da computação na UEPB.
+- Olá sou Lucas Ferreira Maia, estou no 2° período ciencias da computação na UEPB.
 - Apredendo React JS
 
 <div align="center">
