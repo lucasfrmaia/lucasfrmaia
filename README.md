@@ -1,6 +1,8 @@
+## Olá, sou Lucas Ferreira Maia.
 
-- Olá sou Lucas Ferreira Maia, estou no 2° período de ciencias da computação na UEPB.
-- Apredendo React JS
+- 🌱 Atualmente estou no 2° período de ciencias da computação na UEPB.
+- 📚 Estudando linguagens de progamação como C, JavaScript e Python.
+- 📊 Apredendo React JS para desenvolvimento web.
 
 <div align="center">
   <a href="https://github.com/yLexter">
