@@ -1,6 +1,6 @@
 ## Olá, sou Lucas Ferreira Maia.
 
-- 🌱 Atualmente estou no 4° período de ciencias da computação na UEPB.
+- 🌱 Atualmente estou no 5° período de ciencias da computação na UEPB.
 - 📚 Estudando linguagens de progamação como C, JavaScript/Typescript e Java.
 - 📊 Estudando React JS/Next JS para desenvolvimento web.
 
