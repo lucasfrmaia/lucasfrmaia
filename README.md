@@ -1,8 +1,8 @@
 ## Olá, sou Lucas Ferreira Maia.
 
-- 🌱 Atualmente estou no 5° período de ciencias da computação na UEPB.
-- 📚 Estudando linguagens de progamação como C, JavaScript/Typescript e Java.
-- 📊 Estudando React JS/Next JS para desenvolvimento web.
+- 📊 Full Stack Jr 
+- 📚 Atualmente estou no 5° período de Ciencias da Computação na UEPB.
+- 💼 Em busca da 1° Experiência Profissional
 
 <div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLexter&layout=compact&langs_count=7&theme=dracula"/>
