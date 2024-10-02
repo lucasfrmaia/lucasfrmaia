@@ -1,8 +1,7 @@
 ## Olá, sou Lucas Ferreira Maia.
 
-- 📊 Full Stack Jr 
-- 📚 Atualmente estou no 5° período de Ciencias da Computação na UEPB.
-- 💼 Em busca da 1° Experiência Profissional
+- 📊 Engenheiro de Dados Jr
+- 📚 Atualmente estou no 6° (de 8) período de Ciencias da Computação na UEPB.
 
 <div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLexter&layout=compact&langs_count=7&theme=dracula"/>
