@@ -1,10 +1,10 @@
 ## Olá, sou Lucas Ferreira Maia.
 
 - 📊 Engenheiro de Dados Jr
-- 📚 Atualmente estou no 6° (de 8) período de Ciencias da Computação na UEPB.
+- 📚 Atualmente estou no 7° (de 8) período de Ciencias da Computação na UEPB.
 
 <div align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLexter&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrmaia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Node JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg">
